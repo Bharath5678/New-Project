@@ -1,0 +1,47 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-image: url('images/background.jpg'); /* Background image */
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    color: #333; /* Default text color */
+}
+
+.logo {
+    margin-right: 10px;
+}
+
+.brand-name {
+    color: #E74C3C; /* Brand name color */
+    font-size: 28px;
+}
+
+.menu-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu-item img {
+    width: 100%; 
+    height: auto; 
+    border-radius: 5px;
+}
+
+footer {
+    padding: 10px;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-image: url('images/background.jpg'); /* Path to your background image */
+    background-size: cover; /* Make the background cover the entire viewport */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    color: #333; /* Default text color */
+    height: 100vh; /* Full height of the viewport */
+    margin: 0; /* Remove default margin */
+}
